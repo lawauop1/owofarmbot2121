@@ -42,9 +42,9 @@
         "banbypass": true,
         "discordrpc": false,
         "typingindicator": true,        
-        "pray": false,
-        "curse": false,
-        "autoquest": false,
+        "pray": true,
+        "curse": true,
+        "autoquest": true,
         "extratoken": false,
         "inventory": {
             "inventorycheck": true,
@@ -55,7 +55,7 @@
             "eventcheck": true
         },
         "animals": {
-            "enable": false,
+            "enable": true,
             "type": "sacrifice",
             "animaltype": {
                 "common": true,
@@ -93,12 +93,12 @@
         }
     },
     "main": {
-        "token": "",
-        "userid": "",
-        "channelid": "",
-        "owodmchannelid": "",
+        "token": "MTEzOTk0NzQ3NDUxODI4MjQxNA.GXT2Oi.M_Fn6hFbHNzCxnuk7BwXiaKhlpXRuXG7wl9EDI",
+        "userid": "1139947474518282414",
+        "channelid": "1174869094424657960",
+        "owodmchannelid": "900027369216147476",
         "gamblechannelid":"",
-        "autoquestchannelid": ""
+        "autoquestchannelid": "1174869285844299836"
     },
     "extra": {
         "token": "",
